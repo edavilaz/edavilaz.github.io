@@ -5,6 +5,12 @@ body{
 		font-style: oblique;
 }
 
-figure img {
-		width: 15%;
+figure {
+	text-align: center;
 }
+figure img {
+		
+	width: 20%;
+}
+
+
