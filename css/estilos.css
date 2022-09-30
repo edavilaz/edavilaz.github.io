@@ -1,12 +1,12 @@
 body{
-		background-image: url(../img/02.jpg);
+		background-image: url(../img/08.jpg);
 		font-size: 20px;
 		font-family: "Arial Black";
 		font-style: oblique;
 }
 
 figure {
-	text-align: center;
+	text-align: right;
 }
 figure img {
 		
